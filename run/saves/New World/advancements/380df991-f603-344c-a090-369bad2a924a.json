@@ -1,0 +1,35 @@
+{
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2022-08-11 09:54:04 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2022-08-11 09:50:41 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2022-08-11 09:50:41 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2022-08-11 09:50:50 -0700",
+      "minecraft:soul_sand_valley": "2022-08-11 09:50:53 -0700",
+      "minecraft:basalt_deltas": "2022-08-11 09:50:41 -0700"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:bamboo_jungle": "2022-08-11 09:50:28 -0700"
+    },
+    "done": false
+  },
+  "DataVersion": 3105
+}
