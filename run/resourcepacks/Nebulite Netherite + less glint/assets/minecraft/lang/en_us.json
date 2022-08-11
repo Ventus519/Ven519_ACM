@@ -1,0 +1,88 @@
+{
+  "language.name": "English",
+  "language.region": "United States",
+  "language.code": "en_us",
+
+  "options.language": "语言...",
+
+  "options.snooper": "Allow Snooper",
+  "options.snooper.view": "Snooper Settings...",
+  "options.snooper.title": "Feed us data!",
+  "options.snooper.desc": "We always want to improve Minecraft and, to help us do that, we'd like to collect some information. This lets us know what hardware to support and where the big problems are. It also gives us a sense of the size of our active player base, so we know if we're doing a good job. You can view all the information we collect below. If you want to opt out then you can simply toggle it off!",
+
+  "block.minecraft.diamond_ore": "Ender Ore",
+  "block.minecraft.deepslate_diamond_ore": "Abysmal Ender Ore",
+
+  "block.minecraft.diamond_block": "Condensed Ender Soul",
+
+  "block.minecraft.dragon_egg": "Dragon Soul",
+
+  "item.minecraft.diamond": "Ender Soul",
+
+  "item.minecraft.diamond_sword": "Ender Soul Stealer",
+  "item.minecraft.diamond_shovel": "End of the Earth",
+  "item.minecraft.diamond_pickaxe": "Ender Pickaxe",
+  "item.minecraft.diamond_axe": "Ender Chopper",
+
+  "item.minecraft.diamond_hoe": "Ender Scythe",
+ 
+  "item.minecraft.diamond_helmet": "Ender Helm",
+  "item.minecraft.diamond_chestplate": "Ender Tunic",
+  "item.minecraft.diamond_leggings": "Ender Greaves",
+  "item.minecraft.diamond_boots": "Boots of the End",
+
+  "item.minecraft.nether_star": "Withering Soul",
+
+  "item.minecraft.diamond_horse_armor": "Ender Horse Armor",
+
+  "item.minecraft.elytra": "Fuchsia Ray",
+
+  "item.minecraft.lodestone_compass": "Sculk Compass",
+  "item.minecraft.netherite_scrap": "Ender Shard",
+  "item.minecraft.netherite_ingot": "Ender Soul",
+  "item.minecraft.netherite_helmet": "Restored Ender Helm",
+  "item.minecraft.netherite_chestplate": "Restored Ender Tunic",
+  "item.minecraft.netherite_leggings": "Restored Ender Greaves",
+  "item.minecraft.netherite_boots": "Restored Boots of the End",
+  "item.minecraft.netherite_axe": "Refined Ender Chopper",
+  "item.minecraft.netherite_pickaxe": "Refined Ender Pickaxe",
+  "item.minecraft.netherite_hoe": "Refined Ender Scythe",
+  "item.minecraft.netherite_shovel": "End of the Abyss",
+  "item.minecraft.netherite_sword": "Ancient Soul Stealer",
+
+  "subtitles.item.armor.equip_netherite": "Ender armor masks",
+
+  
+  "advancements.adventure.totem_of_undying.title": "Deathn't!",
+
+  "advancements.adventure.kill_mob_near_sculk_catalyst.title": "Viral Infection",
+  "advancements.husbandry.netherite_hoe.title": "End of the Repairment Cycle",
+  "advancements.husbandry.netherite_hoe.description": "Repair an Ender Scythe to an unrecognizable state",
+  "advancements.end.dragon_egg.title": "The Next Generation",
+  "advancements.end.dragon_egg.description": "Hold the Ender Soul",
+  "advancements.end.elytra.title": "Into the Abyss",
+  "advancements.end.elytra.description": "Ancient Treasure from the Abyss",
+  "advancements.nether.create_full_beacon.title": "Beaconator",
+  "advancements.nether.create_full_beacon.description": "Bring a beacon to full power (164 blocks)",
+  "advancements.nether.summon_wither.title": "The Beginning?",
+  "advancements.nether.summon_wither.description": "Summon the Wither",
+  "advancements.nether.netherite_armor.title": "The Legend Reborn",
+  "advancements.nether.netherite_armor.description": "Restore Ender Armor to its former glory",
+  "advancements.nether.obtain_ancient_debris.title": "Ancient Myth",
+  "advancements.nether.obtain_ancient_debris.description": "The deep dark of the nether",
+  "advancements.story.mine_diamond.title": "Shattered Abyss",
+  "advancements.story.mine_diamond.description": "Acquire an Ender Soul",
+  "advancements.story.shiny_gear.title": "The Legend Told",
+  "advancements.story.shiny_gear.description": "According to legend, there was a way to use the abyss to help your armor",
+  
+  
+  "biome.minecraft.badlands_plateau": "Mesa Plateau",
+  "biome.minecraft.badlands": "Mesa",
+  "biome.minecraft.wooded_badlands_plateau": "Wooded Mesa Plateau",
+ 
+  "biome.minecraft.modified_badlands_plateau": "Modified Mesa Plateau",
+  "biome.minecraft.eroded_badlands": "Eroded Mesa",
+  "biome.minecraft.modified_wooded_badlands_plateau": "Modified Wooded Mesa Plateau"
+
+ 
+}
